@@ -18,5 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Master of Information Technology Student at The University of Melbourne. Ex-data analyst@Zoomlion Heavy Industry Science & Technology Co., Ltd. and Cloud Engineer@Bosch Automotive Products (Changsha) Co. Ltd.
+I am a Master of Information Technology Student at The University of Melbourne.
+Ex-data analyst@Zoomlion Heavy Industry Science & Technology Co., Ltd. and Cloud Engineer@Bosch Automotive Products (Changsha) Co. Ltd.
 
