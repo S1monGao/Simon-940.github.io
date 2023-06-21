@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ancora Imparo
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>700 Swanston St</p>
     <p>Carlton, Victoria, 3053</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Master of Information Technology Student at The University of Melbourne and have a strong interest in the IT industry.
+I am a Master of Information Technology Student at The University of Melbourne. Ex-data analyst@Zoomlion Heavy Industry Science & Technology Co., Ltd. and Cloud Engineer@Bosch Automotive Products (Changsha) Co. Ltd.
 

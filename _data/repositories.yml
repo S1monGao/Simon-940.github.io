@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - simon-940
+  - S1monGao
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - S1monGao/Grape_app
+  - S1monGao/google_drive_contribution_tool
+  - S1monGao/Roguelike-game-GSNDM
+  - S1monGao/task_roster_prototype
